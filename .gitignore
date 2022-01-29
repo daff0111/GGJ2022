@@ -76,3 +76,5 @@ DerivedDataCache/*
 *.bin
 *.log
 *.dmp
+*.runtime-xml
+*.log
