@@ -1661,3 +1661,13 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.01.29-19.29.07:233][ 16]UATHelper: Packaging (Windows):   LogCook: Display: Cooked packages 559 Packages Remain 114 Total 673
 [2022.01.29-19.29.07:234][ 16]UATHelper: Packaging (Windows):   LogMaterial: Display: Missing cached shadermap for M_explosion_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: D3BDAFD5420F18C0E15C73D324EF3B1A549EA41F), compiling.
 [2022.01.29-19.29.09:230][ 81]UATHelper: Packaging (Windows):   LogCook: Display: Cooked packages 560 Packages Remain 113 Total 673
+[2022.01.29-19.29.15:432][136]UATHelper: Packaging (Windows):   LogCook: Display: Cooked packages 560 Packages Remain 113 Total 673
+[2022.01.29-19.29.15:432][136]UATHelper: Packaging (Windows):   LogMaterial: Display: Missing cached shadermap for m_flare_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 8A85CD92605890D487D6CA9B080AB109DF8E599D), compiling.
+[2022.01.29-19.29.15:767][137]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.29-19.29.15:767][137]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: Total job queries 12596, among them cache hits 0 (0.00%)
+[2022.01.29-19.29.15:767][137]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: Tracking 6108 distinct input hashes that result in 4502 distinct outputs (73.71%)
+[2022.01.29-19.29.15:767][137]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: RAM used: 25.24 MB (0.02 GB) of 1638.40 MB (1.60 GB) budget. Usage: 1.54%
+[2022.01.29-19.29.15:767][137]UATHelper: Packaging (Windows):   LogShaderCompilers: Display: ================================================
+[2022.01.29-19.29.17:448][142]UATHelper: Packaging (Windows):   LogCook: Display: Cooked packages 561 Packages Remain 112 Total 673
+[2022.01.29-19.29.19:459][148]UATHelper: Packaging (Windows):   LogMaterial: Display: Missing cached shadermap for M_radial_ramp in PCD3D_SM5, Default, SM5 (DDC key hash: 71B9A5B644B0213C0854EF94FD3866EBBE7D535E), compiling.
+[2022.01.29-19.29.19:459][148]UATHelper: Packaging (Windows):   LogCook: Display: Cooked packages 562 Packages Remain 111 Total 673
