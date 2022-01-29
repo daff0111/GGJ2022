@@ -50,12 +50,11 @@ Binaries/*
 Plugins/*/Binaries/*
 
 # Builds
-Build/*
-
-# Whitelist PakBlacklist-<BuildConfiguration>.txt files
-!Build/*/
-Build/*/**
-!Build/*/PakBlacklist*.txt
+!Build/*/**
+Intermediate/*
+Saved/*
+DnDrunkMirrors/Intermediate/*
+DnDrunkMirrors/Saved/*
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
