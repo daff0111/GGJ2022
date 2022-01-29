@@ -51,6 +51,10 @@ Plugins/*/Binaries/*
 
 # Builds
 Build/*
+Intermediate/*
+Saved/*
+DnDrunkMirrors/Intermediate/*
+DnDrunkMirrors/Saved/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
